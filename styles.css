@@ -1,0 +1,32 @@
+body {
+  background-color: bisque;
+  font-family: "Open Sans", sans-serif;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+
+/* h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+} */
+
+h2 {
+  margin: 0;
+  padding: 0px 0px 10px 25px;
+  color: black;
+}
+
+.iii {
+  margin: 0px;
+  padding: 0px 0px 0px 15px;
+}
+
+/* Centering the image */
+
+img {
+  display: block;
+  margin: 0 auto;
+}
